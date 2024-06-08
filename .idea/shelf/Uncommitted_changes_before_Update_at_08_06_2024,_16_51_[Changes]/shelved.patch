@@ -1,0 +1,18 @@
+Index: .env
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.env b/.env
+deleted file mode 100644
+--- a/.env	(revision 72dc7630278e06ae717127c919c74c566dc624dc)
++++ /dev/null	(revision 72dc7630278e06ae717127c919c74c566dc624dc)
+@@ -1,8 +0,0 @@
+-BOT_TOKEN='6439766081:AAHbTSNMffZF5_9JCGopbMwCA2WarEOYmFQ'
+-
+-API_KEY='26ab75a9b3msh3f33cf645752444p13b3bdjsn4d4dd4ee99cc'
+-
+-HOST_KEY='text-translator2.p.rapidapi.com'
+-
+-
+-
